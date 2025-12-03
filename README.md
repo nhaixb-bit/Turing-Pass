@@ -14,4 +14,4 @@
    - 🐢 비정상 지연 → 본인 확인 (Turing Test)
 
 ## 🖥️ 프로토타입 시연
-👉 [웹 시뮬레이터 실행하기](여기에_GitHub_Pages_링크_붙여넣기)
+👉 [웹 시뮬레이터 실행하기](https://nhaixb-bit.github.io/Turing-Pass/)
